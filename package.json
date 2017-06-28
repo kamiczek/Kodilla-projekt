@@ -1,0 +1,29 @@
+{
+  "name": "kodilla-projekt",
+  "version": "1.0.0",
+  "description": "Strona tworzona na bootcampie Kodilla",
+  "main": "index.js",
+  "scripts": {
+    "test": "kodilla-test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kamiczek/Kodilla-projekt.git"
+  },
+  "keywords": [
+    "grunt",
+    "kodilla"
+  ],
+  "author": "Remigiusz Rajca",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kamiczek/Kodilla-projekt/issues"
+  },
+  "homepage": "https://github.com/kamiczek/Kodilla-projekt#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-imagemin": "^2.0.1",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-sass": "^2.0.0"
+  }
+}
